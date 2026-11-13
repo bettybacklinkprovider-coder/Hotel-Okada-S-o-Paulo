@@ -1,0 +1,8 @@
+{
+  "name": "Hotel Okada — São Paulo",
+  "description": "Boutique luxury hospitality in República, São Paulo. Explore rooms, special offers, guest reviews, photo gallery, and direct WhatsApp reservations at Hotel Okada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
